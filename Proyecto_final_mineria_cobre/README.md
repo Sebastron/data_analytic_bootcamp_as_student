@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-_**Sistema de Información Nacional de Minería**_
+# Sistema de Información Nacional de Minería
 
 
 ## Lenguaje y Herramientas utilizadas 🛠️
