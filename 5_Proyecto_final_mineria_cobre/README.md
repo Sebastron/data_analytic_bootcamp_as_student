@@ -11,6 +11,6 @@
 
 ## Autor del proyecto ✒️
 
-* [**Jade García**](https://www.linkedin.com/in/jade-garcia-/)
-* [**Camila Valdivia**](https://www.linkedin.com/in/camila-valdivia-rojas/) 
-* [**Sebastián Garrido**](https://cl.linkedin.com/in/sebastian-alejandro-garrido-valenzuela-a16120204)
+* [Jade García](https://www.linkedin.com/in/jade-garcia-/)
+* [Camila Valdivia](https://www.linkedin.com/in/camila-valdivia-rojas/) 
+* [Sebastián Garrido](https://cl.linkedin.com/in/sebastian-alejandro-garrido-valenzuela-a16120204)
