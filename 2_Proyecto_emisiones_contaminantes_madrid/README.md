@@ -9,8 +9,8 @@
 
 ## Autor del proyecto ✒️
 
-* [**Amada Vargas**](https://www.linkedin.com/in/amada-vargas-hern%C3%A1ndez-bb4785212/)
-* [**Camilo Valenzuela**](https://www.linkedin.com/in/camilo-valenzuela-rojas-2a219a1b3/) 
-* [**Felipe Bravo**](https://www.linkedin.com/in/felipe-bravo-espinosa-aab013163/)
-* [**Patricio Zuñiga**](https://www.linkedin.com/in/patricio-zu%C3%B1iga-reyes-579652203/)
-* [**Sebastián Garrido**](https://cl.linkedin.com/in/sebastian-alejandro-garrido-valenzuela-a16120204)
+* [Amada Vargas](https://www.linkedin.com/in/amada-vargas-hern%C3%A1ndez-bb4785212/)
+* [Camilo Valenzuela](https://www.linkedin.com/in/camilo-valenzuela-rojas-2a219a1b3/) 
+* [Felipe Bravo](https://www.linkedin.com/in/felipe-bravo-espinosa-aab013163/)
+* [Patricio Zuñiga](https://www.linkedin.com/in/patricio-zu%C3%B1iga-reyes-579652203/)
+* [Sebastián Garrido](https://cl.linkedin.com/in/sebastian-alejandro-garrido-valenzuela-a16120204)
