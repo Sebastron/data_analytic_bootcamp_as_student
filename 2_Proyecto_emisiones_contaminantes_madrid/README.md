@@ -1,4 +1,4 @@
-# Sistema de Información Nacional de Minería
+# Proyecto de emisiones contaminantes en Madrid
 
 
 ## Herramientas utilizadas 🛠️
