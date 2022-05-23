@@ -13,7 +13,7 @@ B;43.3;1653062450;001
 
 
 
-Se tiene un script que una los dos archivos y los ordene según los datos de la tercera columna.Para ejecutarlo, debe ingresar el siguiente comando por terminal, posicionando en esta carpeta.
+Se tiene un script que una los dos archivos y los ordene según los datos de la tercera columna. Para ejecutarlo, debe ingresar el siguiente comando por terminal, posicionando en esta carpeta.
 <!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
 
     python manejo_archivos_log.py
