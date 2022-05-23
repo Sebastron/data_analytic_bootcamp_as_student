@@ -20,4 +20,4 @@ Se tiene un script que una los dos archivos y los ordene según los datos de la 
     
 <!--endsec-->
 
-> ✒️NOTA: Se utilizó los archivos "logA.txt" y "logB.txt" como prueba del para la ejecución del código.
+> ✒️NOTA: Se utilizó los archivos entrantes "logA.txt" y "logB.txt" como prueba del para la ejecución del código.
