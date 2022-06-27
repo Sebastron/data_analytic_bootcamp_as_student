@@ -1,7 +1,7 @@
 # Sistema de Información Nacional de Minería
 
 
-## Lenguaje y Herramientas utilizadas 🛠️
+## Herramientas utilizadas 🛠️
 
 * [Google Colaboratory (Colab)](https://colab.research.google.com/) - Entorno de desarrollo, análisis de datos y ejecución en la nube de Google
 * [SQL Lite](https://sqliteonline.com/) - Herramienta de software libre para gestión de bases de datos
